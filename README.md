@@ -2,6 +2,8 @@
 
 This repo contains an application for automated face registration using AI.
 
+The application is made user-friendly by providing a GUI to the application.
+
 Before running the codes, we need to install all the prerequisites. 
 
 Have made a requirements.txt for the same. 
@@ -46,17 +48,13 @@ Can be executed on x86 and ARM architecture systems.
 
 ***
 
-
-
 **For Embedded Linux Platforms**
 
-- Connect 2 USB/CSI cameras (as per availability) and a mic for voice input
+- Connect 2 USB/CSI cameras (as per availability) for register and detect.
 
 - Install drivers if required using ```insmod [driver location]```
 
-- Check the device IDs for the connected peripherals in ```/proc/asound/```
-
-- Make changes in .asoundrc accordingly.
+- Run the application in two terminals simulatneously for real time experience.
 
 ***
 
