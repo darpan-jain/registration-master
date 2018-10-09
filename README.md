@@ -40,9 +40,9 @@ Can be executed on x86 and ARM architecture systems.
 
  - Detect: To recognize a registered person.
 
- - When a face is detected, the system checks if the person exists in the database.
+   - When a face is detected, the system checks if the person exists in the database.
 
- - On recognition, the person's face is highlighted with a green box. 
+   - On recognition, the person's face is highlighted with a green box. 
 
 ***
 
