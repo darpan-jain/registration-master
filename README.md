@@ -1,4 +1,4 @@
-# registration-master
+# Automated-Event-Registration
 
 This repo contains an application for automated face registration using AI.
 
